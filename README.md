@@ -12,4 +12,5 @@
 Mac环境搭建：
 
 [Mac下配置Eclipse+PHP+XDEBUG](http://blog.csdn.net/iamno/article/details/7957388)
+
 [Mac更改PHP默认目录](http://www.cnblogs.com/muyunlee/p/6386095.html)
