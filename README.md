@@ -8,6 +8,8 @@
 
 [探索PHP构造项目之路之停止复制粘贴](https://my.oschina.net/u/922172/blog/749713)
 
+[Eclipse中PHPEditor关联CakePHP的*.ctp文件](http://luzl.iteye.com/blog/737175)
+
 
 Mac环境搭建：
 
