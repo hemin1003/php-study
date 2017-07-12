@@ -11,6 +11,7 @@
 [Eclipse中PHPEditor关联CakePHP的*.ctp文件](http://luzl.iteye.com/blog/737175)
 
 
+
 Mac环境搭建：
 
 [Mac下配置Eclipse+PHP+XDEBUG](http://blog.csdn.net/iamno/article/details/7957388)
